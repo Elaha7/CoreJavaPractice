@@ -9,7 +9,6 @@ public class StringPractice {
         String city = " Columbia ";
 	    String state= "Maryland";
 	
-	
 	    int c = city.length();	
 		System.out.println(c);
 		
