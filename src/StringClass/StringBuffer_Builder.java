@@ -29,6 +29,9 @@ public class StringBuffer_Builder {
 		int s8 = s1.charAt(4);//if we write return type as int it will return ASCI number of char
 		System.out.println(s8);
 		
+		int s10 = s2.charAt(5);
+		System.out.println(s10);
+		
 		char s9 = s1.charAt(4);
 		System.out.println(s9);
 	}
