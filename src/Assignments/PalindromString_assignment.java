@@ -14,7 +14,7 @@ public class PalindromString_assignment {
     
 	Scanner scan = new Scanner(System.in);
 	
-    System.out.println("Enter the String You want to check: ");
+    System.out.println("Enter the String You want to check:");
     
     String m1 = scan.nextLine();
     String org = m1;

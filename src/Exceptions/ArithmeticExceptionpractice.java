@@ -20,7 +20,7 @@ public class ArithmeticExceptionpractice {
  		e.printStackTrace();
  	}
  	
- 	System.out.println(" You are dividing number by zero! ");
+ 	System.out.println(" You are dividing number by zero!");
 		  
      
      

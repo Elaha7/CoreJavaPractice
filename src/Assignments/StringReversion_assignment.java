@@ -9,7 +9,7 @@ public class StringReversion_assignment {
 	String weather = "Rainy";	
 	System.out.println(weather);	
 		
-	for(int i = weather.length()-1; i>=0; i--) {
+	for(int i= weather.length()-1; i>=0; i--) {
 		
 		System.out.print(weather.charAt(i));
 	}

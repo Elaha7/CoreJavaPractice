@@ -17,7 +17,7 @@ public class NullPointerExceptionPractice {
 		e.printStackTrace();
 	}
 	
-	System.out.println("Your String value is null, please assign a value to your string");
+	System.out.println("Your String value is null, please assign a value to your string ");
 	
 	
 	}

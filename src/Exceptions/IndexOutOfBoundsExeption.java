@@ -15,7 +15,7 @@ public class IndexOutOfBoundsExeption {
 	{
 		e.printStackTrace();
 	
-	    System.out.println("your string has only five characters");
+	    System.out.println("Your string has only five characters");
 	}
    
 	}

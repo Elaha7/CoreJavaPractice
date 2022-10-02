@@ -12,7 +12,7 @@ public class PalindromStringWith_DoWhile {
 		Scanner scan = new Scanner(System.in);
 		
 		do {
-	    System.out.println("Enter the String You want to check: ");
+	    System.out.println("Enter the String You want to check:");
 	    
 	    String m1 = scan.nextLine();
 	    String org = m1;
