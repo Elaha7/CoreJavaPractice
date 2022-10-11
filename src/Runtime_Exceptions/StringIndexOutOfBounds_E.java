@@ -1,6 +1,6 @@
-package Exceptions;
+package Runtime_Exceptions;
 
-public class IndexOutOfBoundsExeption {
+public class StringIndexOutOfBounds_E {
 
 	public static void main(String[] args) {
 

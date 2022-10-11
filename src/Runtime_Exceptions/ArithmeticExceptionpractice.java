@@ -1,4 +1,4 @@
-package Exceptions;
+package Runtime_Exceptions;
 
 public class ArithmeticExceptionpractice {
 
